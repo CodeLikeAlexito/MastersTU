@@ -1,0 +1,7 @@
+C:\Users\ALEX\source\repos\LabOneSolution\LabOne\obj\Debug\LabOne.csprojAssemblyReference.cache
+C:\Users\ALEX\source\repos\LabOneSolution\LabOne\obj\Debug\LabOne.csproj.CoreCompileInputs.cache
+C:\Users\ALEX\source\repos\LabOneSolution\LabOne\bin\Debug\LabOne.exe.config
+C:\Users\ALEX\source\repos\LabOneSolution\LabOne\bin\Debug\LabOne.exe
+C:\Users\ALEX\source\repos\LabOneSolution\LabOne\bin\Debug\LabOne.pdb
+C:\Users\ALEX\source\repos\LabOneSolution\LabOne\obj\Debug\LabOne.exe
+C:\Users\ALEX\source\repos\LabOneSolution\LabOne\obj\Debug\LabOne.pdb
